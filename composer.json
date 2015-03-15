@@ -1,5 +1,6 @@
 {
     "name": "diginova/yii2-metronic",
+    "version": "0.9.4.2",
     "description": "Yii2 Metronic Theme Integration",
     "keywords": ["yii2", "theme", "metronic"],
     "type": "yii2-extension",
