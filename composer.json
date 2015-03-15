@@ -5,9 +5,9 @@
     "type": "yii2-extension",
     "license": "BSD",
     "support": {
-        "issues": "https://github.com/dlds/yii2-metronic/issues",
-        "wiki": "https://github.com/dlds/yii2-metronic/wiki",
-        "source": "https://github.com/dlds/yii2-metronic"
+        "issues": "https://github.com/uguryildiz/yii2-metronic/issues",
+        "wiki": "https://github.com/uguryildiz/yii2-metronic/wiki",
+        "source": "https://github.com/uguryildiz/yii2-metronic"
     },
     "authors": [
         {
