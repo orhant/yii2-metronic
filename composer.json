@@ -1,13 +1,13 @@
 {
-    "name": "uguryildiz/yii2-metronic",
+    "name": "diginova/yii2-metronic",
     "description": "Yii2 Metronic Theme Integration",
     "keywords": ["yii2", "theme", "metronic"],
     "type": "yii2-extension",
     "license": "BSD",
     "support": {
-        "issues": "https://github.com/uguryildiz/yii2-metronic/issues",
-        "wiki": "https://github.com/uguryildiz/yii2-metronic/wiki",
-        "source": "https://github.com/uguryildiz/yii2-metronic"
+        "issues": "https://github.com/diginova/yii2-metronic/issues",
+        "wiki": "https://github.com/diginova/yii2-metronic/wiki",
+        "source": "https://github.com/diginova/yii2-metronic"
     },
     "authors": [
         {
