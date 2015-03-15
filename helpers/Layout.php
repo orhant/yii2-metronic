@@ -1,13 +1,14 @@
 <?php
 
 /**
- * @copyright Copyright (c) 2014 Digital Deals s.r.o.
- * @license http://www.digitaldeals/license/
+ * @link http://www.diginova.com.tr/
+ * @copyright Copyright (c) 2014 DigiNova 
+ * @license http://www.diginova.com.tr/yii2-metronic.license
  */
 
-namespace dlds\metronic\helpers;
+namespace diginova\metronic\helpers;
 
-use dlds\metronic\Metronic;
+use diginova\metronic\Metronic;
 use yii\helpers\Html;
 
 /**

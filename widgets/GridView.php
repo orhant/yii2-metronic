@@ -1,17 +1,18 @@
 <?php
 
 /**
- * @copyright Copyright (c) 2014 Digital Deals s.r.o.
- * @license http://www.digitaldeals/license/
+ * @link http://www.diginova.com.tr/
+ * @copyright Copyright (c) 2014 DigiNova 
+ * @license http://www.diginova.com.tr/yii2-metronic.license
  */
 
-namespace dlds\metronic\widgets;
+namespace diginova\metronic\widgets;
 
 use yii\helpers\Html;
 use yii\helpers\Url;
 use yii\helpers\ArrayHelper;
-use dlds\metronic\bundles\GridViewAsset;
-use dlds\metronic\bundles\GridViewSortableAsset;
+use diginova\metronic\bundles\GridViewAsset;
+use diginova\metronic\bundles\GridViewSortableAsset;
 
 class GridView extends \yii\grid\GridView {
 

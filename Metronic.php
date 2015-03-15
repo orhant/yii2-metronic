@@ -1,17 +1,17 @@
 <?php
 
 /**
- * @link http://www.digitaldeals.cz/
- * @copyright Copyright (c) 2014 Digital Deals s.r.o. 
- * @license http://www.digitaldeals/license/
+ * @link http://www.diginova.com.tr/
+ * @copyright Copyright (c) 2014 DigiNova 
+ * @license http://www.diginova.com.tr/yii2-metronic.license
  */
 
-namespace dlds\metronic;
+namespace diginova\metronic;
 
 use Yii;
 use yii\web\AssetBundle;
 use yii\base\InvalidConfigException;
-use dlds\metronic\bundles\ThemeAsset;
+use diginova\metronic\bundles\ThemeAsset;
 
 /**
  * This is the class of Metronic Component

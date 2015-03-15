@@ -1,15 +1,16 @@
 <?php
 /**
- * @copyright Copyright (c) 2014 Digital Deals s.r.o.
- * @license http://www.digitaldeals/license/
+ * @link http://www.diginova.com.tr/
+ * @copyright Copyright (c) 2014 DigiNova 
+ * @license http://www.diginova.com.tr/yii2-metronic.license
  */
 
-namespace dlds\metronic\widgets;
+namespace diginova\metronic\widgets;
 
 use yii\base\InvalidConfigException;
 use yii\helpers\Html;
 
-use dlds\metronic\bundles\Select2Asset;
+use diginova\metronic\bundles\Select2Asset;
 
 /**
  * Select2 renders Select2 component.

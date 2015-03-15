@@ -16,9 +16,9 @@ Basic configuration:
 ```
     'components' => [ 
         'metronic' => [
-            'class' => 'dlds\metronic\Metronic',
+            'class' => 'diginova\metronic\Metronic',
             'color' => 'default',
-            'layoutOption' => \dlds\metronic\Metronic::LAYOUT_FLUID,
+            'layoutOption' => \diginova\metronic\Metronic::LAYOUT_FLUID,
             'headerOption' => 'fixed',
         ],
     ],

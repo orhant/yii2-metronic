@@ -1,10 +1,11 @@
 <?php
 /**
- * @copyright Copyright (c) 2014 Digital Deals s.r.o.
- * @license http://www.digitaldeals/license/
+ * @link http://www.diginova.com.tr/
+ * @copyright Copyright (c) 2014 DigiNova 
+ * @license http://www.diginova.com.tr/yii2-metronic.license
  */
 
-namespace  dlds\metronic\bundles;
+namespace  diginova\metronic\bundles;
 
 use yii\web\AssetBundle;
 
@@ -13,12 +14,12 @@ use yii\web\AssetBundle;
  */
 class SpinnerAsset extends AssetBundle
 {
-    public $sourcePath = '@dlds/metronic/assets';
+    public $sourcePath = '@diginova/metronic/assets';
     public $js = [
         'plugins/fuelux/js/spinner.min.js',
     ];
 
     public $depends = [
-        'dlds\metronic\bundles\CoreAsset',
+        'diginova\metronic\bundles\CoreAsset',
     ];
 }

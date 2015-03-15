@@ -1,16 +1,17 @@
 <?php
 
 /**
- * @copyright Copyright (c) 2014 Digital Deals s.r.o.
- * @license http://www.digitaldeals/license/
+ * @link http://www.diginova.com.tr/
+ * @copyright Copyright (c) 2014 DigiNova 
+ * @license http://www.diginova.com.tr/yii2-metronic.license
  */
 
-namespace dlds\metronic\widgets;
+namespace diginova\metronic\widgets;
 
 use Yii;
 use yii\helpers\ArrayHelper;
 use yii\helpers\Html;
-use dlds\metronic\bundles\ModalAsset;
+use diginova\metronic\bundles\ModalAsset;
 
 /**
  * Modal renders a modal window that can be toggled by clicking on a button.

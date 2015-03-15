@@ -1,6 +1,6 @@
 {
-    "name": "dlds/yii2-metronic",
-    "description": "Yii2 Metronic theme integration",
+    "name": "uguryildiz/yii2-metronic",
+    "description": "Yii2 Metronic Theme Integration",
     "keywords": ["yii2", "theme", "metronic"],
     "type": "yii2-extension",
     "license": "BSD",
@@ -11,8 +11,8 @@
     },
     "authors": [
         {
-            "name": "Jiri Svoboda",
-            "email": "jiri.svoboda@dlds.cz"
+            "name": "Uğur YILDIZ",
+            "email": "yildiz@diginova.com.tr"
         }
     ],
     "require": {
@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "dlds\\metronic\\": ""
+            "diginova\\metronic\\": ""
         }
     }
 }

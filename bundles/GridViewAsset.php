@@ -1,11 +1,12 @@
 <?php
 
 /**
- * @copyright Copyright (c) 2014 Digital Deals s.r.o.
- * @license http://www.digitaldeals/license/
+ * @link http://www.diginova.com.tr/
+ * @copyright Copyright (c) 2014 DigiNova 
+ * @license http://www.diginova.com.tr/yii2-metronic.license
  */
 
-namespace dlds\metronic\bundles;
+namespace diginova\metronic\bundles;
 
 use yii\web\AssetBundle;
 
@@ -14,7 +15,7 @@ class GridViewAsset extends AssetBundle {
     /**
      * @var string source path
      */
-    public $sourcePath = '@dlds/metronic/assets';
+    public $sourcePath = '@diginova/metronic/assets';
 
     /**
      * @var array CSS

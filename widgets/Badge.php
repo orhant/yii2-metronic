@@ -1,10 +1,11 @@
 <?php
 /**
- * @copyright Copyright (c) 2014 Digital Deals s.r.o.
- * @license http://www.digitaldeals/license/
+ * @link http://www.diginova.com.tr/
+ * @copyright Copyright (c) 2014 DigiNova 
+ * @license http://www.diginova.com.tr/yii2-metronic.license
  */
 
-namespace dlds\metronic\widgets;
+namespace diginova\metronic\widgets;
 
 use yii\helpers\Html;
 
@@ -19,7 +20,7 @@ use yii\helpers\Html;
  *     'round'
  * ]);
  *
- * @package dlds\metronic\widgets
+ * @package diginova\metronic\widgets
  */
 class Badge extends  \yii\base\Widget
 {
