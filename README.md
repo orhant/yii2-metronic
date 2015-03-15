@@ -1,6 +1,6 @@
 Yii2Metronic
 ======================
-Forked by Digital Deals s.r.o.
+Forked by DigiNova
 
 Yii2Metronic is a collection of Yii2 components(widgets) based on responsive and multipurpose admin theme
 called Metronic (v2.0). Powered with Twitter Bootstrap 3.1.0 Framework. 
@@ -22,7 +22,7 @@ Basic configuration:
             'headerOption' => 'fixed',
         ],
     ],
-    'preload' => ['metronic'],
+    //'preload' => ['metronic'],
 ```
 
 Some examples:
